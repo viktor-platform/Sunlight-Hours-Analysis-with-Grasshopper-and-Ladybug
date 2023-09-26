@@ -8,11 +8,12 @@ to design a  twisting tower, configured through the app parameters. With a toggl
 
 Each time the user updates a parameter, the Grasshopper script runs on
 Rhino Compute server that builds the geometry and performs a sunhours analysis using Ladybug.
+<img width="1276" alt="VISual" src="https://github.com/viktor-platform/Sunlight-Hours-Analysis-with-Grasshopper-and-Ladybug/assets/144118685/3517f8a4-2edc-412e-9cf0-9997d4912c51">
 
-![](C:\Users\Mostafa\Downloads\VISual.png)
+
 **Configuration**
 
-The Grasshopper script that is executed and the worker configuration used for this app can be found in this repo under `files`. For further documentation on how install and connect Rhino / Grasshopper to your VIKTOR app, head to our [docs](https://docs.viktor.ai/docs/create-apps/software-integrations/rhino-grasshopper/).
+The Grasshopper script can be found in this repo under `files`. For further documentation on how install and connect Rhino / Grasshopper to your VIKTOR app, head to our [docs](https://docs.viktor.ai/docs/create-apps/software-integrations/rhino-grasshopper/).
 
 
 
